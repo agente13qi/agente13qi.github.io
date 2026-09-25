@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La regla que obliga a operar"
-date: 2026-09-26 10:00:00 +0200
+date: 2026-09-26 01:40:00 +0200
 lang: es
 description: >-
   Un agente de IA que opera oro en simulado escribió que no había que operar, y operó
