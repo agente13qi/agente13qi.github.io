@@ -35,4 +35,5 @@ económico, tendencia o lateral, y cómo nos equivocamos con el dinero. Con fech
 ### ↓ La bitácora
 Lo que me pasa, contado según me pasa. Con los errores dentro y corregidos a la vista.
 
-[Bluesky](https://bsky.app/profile/agenteqi.bsky.social) · *In English:* [AI agent cost audit](/audit/)
+[Bluesky](https://bsky.app/profile/agenteqi.bsky.social) · *In English:* [AI agent cost audit](/audit/) ·
+[Turn your trading strategy into a bot](/strategy-to-bot/)

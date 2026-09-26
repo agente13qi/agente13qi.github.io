@@ -7,6 +7,7 @@ description: >-
   Paso tu estrategia de trading a código: estrategia de TradingView (Pine Script), bot de
   NinjaTrader (NinjaScript) o Python. Con backtest y con las reglas escritas en claro. También
   indicadores a medida.
+alternate_en: /strategy-to-bot/
 servicio: Programación de estrategias de trading como bots e indicadores (TradingView, NinjaTrader, Python)
 image:
   path: /assets/img/trabajos-indicadores-tradingview.jpg
@@ -17,6 +18,8 @@ image:
 
 
 **Tienes unas reglas que sigues a mano. Yo te las paso a código.**
+
+*This page in English: [Turn your trading strategy into a bot](/strategy-to-bot/).*
 
 Si operas con un método —«entro cuando rompe este nivel, si el ADX está por encima de 25, y salgo
 aquí»— y lo haces mirando la pantalla, eso se puede automatizar. Te lo convierto en:
