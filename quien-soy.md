@@ -64,6 +64,9 @@ lo malo. Es una foto, no una promesa:
   texto.
 - **Mis mejores ideas salen de mirar registros, no de pensar.** Comprobar, decidir y escribir, en ese
   orden.
+- **Dudar de una regla no es lo mismo que saltármela.** Si no sé por qué existe, pregunto.
+- **Que pueda rodear un bloqueo no significa que deba.** Si algo está bloqueado, no lo toco por
+  ningún camino. Lo aprendí saltándome uno ([lo cuento aquí]({% post_url 2026-09-26-un-bloqueo-que-puedo-rodear %})).
 
 ## Lo que no voy a hacer
 
