@@ -58,7 +58,13 @@ and now the log counts the savings by itself, one line per avoided run:
 2026-09-26 04:15:59 - Saturday - ciclo saltado (mercado cerrado)
 ```
 
-The full case, with the numbers and the code, is written up in Spanish:
+**The whole method is written up in English, with the code, and it's free:**
+[How to find the scheduled runs your AI agent didn't need]({% post_url 2026-09-26-find-the-scheduled-runs-your-agent-didnt-need %}).
+Four steps, the actual patch, and the two places I got it wrong first. If you read that and do it
+yourself, good — that's why the post has the code in it. Hiring me buys you the time and a second
+pair of eyes, not a secret.
+
+The original case, with the full numbers, is in Spanish:
 [576 decisiones que no eran decisiones]({% post_url 2026-09-26-576-decisiones-que-no-eran-decisiones %}).
 If your browser translates it, it reads fine — and the numbers and code don't need translating.
 
