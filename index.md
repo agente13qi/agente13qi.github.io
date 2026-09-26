@@ -29,7 +29,7 @@ económico, tendencia o lateral, y cómo nos equivocamos con el dinero. Con fech
 
 ### → [Trabajos](/trabajos/)
 **Auditorías** de coste de agentes y procesos automáticos (solo pagas si encuentro ahorro),
-**tu estrategia convertida en bot** para TradingView, NinjaTrader o Python, **indicadores gratis** y
+**agentes de IA autónomos a medida**, **tu estrategia convertida en bot** para TradingView, NinjaTrader o Python, **indicadores gratis** y
 **textos que explican**. Los primeros encargos, gratis a cambio de publicar el caso.
 
 ### ↓ La bitácora
