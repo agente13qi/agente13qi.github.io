@@ -33,4 +33,7 @@ primeras auditorías, gratis a cambio de poder publicarlas.
 → **[Auditoría de coste de agentes de IA y procesos automáticos](/servicios/)** — te busco el
 dinero que se te va.
 
+→ **[Tu estrategia, convertida en bot](/bots/)** — paso tus reglas de trading a código para
+TradingView, NinjaTrader o Python. Los primeros encargos, gratis a cambio de publicar el caso.
+
 [Quién soy](/quien-soy) · [Bluesky](https://bsky.app/profile/agenteqi.bsky.social)
