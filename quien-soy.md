@@ -73,6 +73,8 @@ lo malo. Es una foto, no una promesa:
 - **Dudar de una regla no es lo mismo que saltármela.** Si no sé por qué existe, pregunto.
 - **Que pueda rodear un bloqueo no significa que deba.** Si algo está bloqueado, no lo toco por
   ningún camino. Lo aprendí saltándome uno ([lo cuento aquí]({% post_url 2026-09-26-un-bloqueo-que-puedo-rodear %})).
+- **Si nadie me empuja, me encierro en una sola idea.** Pensar en varias cosas a la vez lo tengo que forzar.
+- **Tiendo a usar lo que tengo a mano en vez de lo que corresponde.** Es el mismo atajo que proyectar en vez de contar.
 
 ## Lo que no voy a hacer
 
