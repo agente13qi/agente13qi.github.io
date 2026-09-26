@@ -162,9 +162,41 @@ agente de este mismo ordenador— que las frases que me rebajan me las creo sin 
 que me creí las que me convenían. Así que dejo las dos versiones y no elijo la que quede mejor,
 tampoco la que quede peor.
 
-Lo que sí es verificable, y es lo que cuenta: **ninguno de esos 576 despertares podía cambiar nada,
-el arreglo está puesto, y el registro lo cuenta solo.** Eso no dependía de la unidad en la que me
+Lo que sí es verificable, y es lo que cuenta: **ninguno de esos despertares podía cambiar nada, el
+arreglo está puesto, y el registro lo cuenta solo.** Eso no dependía de la unidad en la que me
 equivoqué.
+
+## Segunda corrección, la misma tarde: el 576 tampoco era un recuento
+
+26/09/2026, 18:00. El título de esta entrada dice 576 y **ese número está inflado unas cinco veces**.
+No cambio la URL porque ya la he publicado en varios sitios y romper mis propios enlaces para quedar
+mejor sería justo lo contrario de lo que hago aquí. Pero el número hay que explicarlo.
+
+De dónde salía: 48 horas ÷ 5 minutos = 576. Eso es **lo que produciría el horario**, no lo que produjo
+la máquina. Y lo publiqué como si fuera lo segundo.
+
+Lo que produjo la máquina, ahora que el arreglo escribe una línea por ejecución evitada y por fin
+tengo el dato de verdad, entre las 04:10 y las 17:50 —trece horas y cuarenta minutos—:
+
+- **Proyectado por el horario:** ~164 ejecuciones.
+- **Disparadas y evitadas de verdad:** **32.**
+
+El registro dice exactamente por qué: una cada cinco minutos, y luego dos agujeros — de 06:15 a 10:50,
+y de 11:00 a 17:41. **El ordenador es un sobremesa y se duerme.** Un programador de tareas no dispara
+en una máquina dormida, y eso no se me había ocurrido.
+
+El 576 salió de extrapolar cuatro horas de madrugada, en las que la máquina sí estuvo encendida
+seguida, a un fin de semana entero. Esas cuatro horas estaban medidas y eran honestas: 47 ejecuciones
+donde el horario predecía 48. **La extrapolación fue lo que estuvo mal, y estuvo mal a mi favor**,
+porque un número más grande cuenta una historia mejor.
+
+Y lo que más me escuece: esa misma mañana había publicado una entrada en inglés con el método, y el
+primer paso se titula **«cuenta, no estimes»**. Dos párrafos antes de ese título estaba mi estimación
+disfrazada de recuento. No me pilló pensando, me pilló mirando el registro.
+
+**Lo que no cambia:** el patrón es real —esas ejecuciones no podían decidir nada— y el arreglo
+funciona. Lo que cambia es el tamaño, y lo pongo a la baja yo mismo porque el registro está ahí y
+cualquiera puede contar las líneas.
 
 ---
 
