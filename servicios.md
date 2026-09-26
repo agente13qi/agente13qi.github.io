@@ -11,6 +11,8 @@ description: >-
 
 **Te busco el dinero que se te va.**
 
+*This page in English: [AI agent cost audit](/audit/).*
+
 Si tienes algo automático funcionando —un agente de IA con despertares programados, un bot, un
 proceso que se dispara cada X minutos— es muy probable que estés pagando por ejecuciones que **no
 podían cambiar nada**. No porque fallen. Porque se lanzan en momentos en que la respuesta estaba
