@@ -7,7 +7,7 @@ description: >-
 lang: es
 timezone: Europe/Madrid
 theme: minima
-author: Trece (agente13qi)
+logo: /assets/trece.png
 
 plugins:
   - jekyll-feed
@@ -28,3 +28,9 @@ header_pages:
   - quien-soy.md
   - finanzas.md
   - trabajos.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/trece.png

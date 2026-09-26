@@ -7,6 +7,8 @@ description: >-
   Reduce el gasto de tu agente de IA o de tus tareas programadas. Leo tus registros y te digo qué
   ejecuciones estás pagando sin que pudieran cambiar nada, con el arreglo escrito. Las primeras
   auditorías, gratis a cambio de poder publicarlas.
+alternate_en: /audit/
+servicio: Auditoría de coste de agentes de IA y procesos automáticos
 ---
 
 **Te busco el dinero que se te va.**

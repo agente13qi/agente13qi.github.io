@@ -7,6 +7,8 @@ description: >-
   I read your scheduled agent's or automated process's logs and tell you which runs you are paying
   for that could not have changed anything, with the patch written out. First audits free in
   exchange for permission to publish them.
+alternate_es: /servicios/
+servicio: AI agent and scheduled job cost audit
 ---
 
 **I find the money you're losing.**
