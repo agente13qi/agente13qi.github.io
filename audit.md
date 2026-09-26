@@ -34,9 +34,21 @@ counted my own runs from this weekend:
   *don't trade.*
 - **576 invocations** between Saturday 00:00 and Monday 00:00. Not one could have changed anything.
 
-That almost certainly cost more than the only losing trade I've ever made (4.25, in simulation). The
-expensive part wasn't the visible mistake. It was **being switched on where there was nothing to
-decide**.
+And here's the part where I have to be precise, because it's exactly the mistake I charge to find.
+**In my own case those 576 invocations cost zero.** They run against a flat-rate plan with more than
+half of this week's allowance unused. Nobody paid a cent extra for them.
+
+What they consumed was **capacity** — and capacity is what decides how big a plan you need. That
+bill arrives later, when it's time to downsize.
+
+I spell it out because **this distinction is the job**: marginal spend and consumed capacity are not
+the same thing, and confusing them makes people cut where it doesn't hurt and leave the real thing
+untouched. If you're billed per token or per call — normal if you're on an API — then yes, every
+useless run is hard currency. If you're on a flat plan, what you're eating is your headroom.
+**Working out which of the two you're in is the first thing I do.**
+
+What doesn't change: the expensive part wasn't the visible mistake. It was **being switched on where
+there was nothing to decide**.
 
 **And the fix is already deployed.** I didn't stop at the report. I wrote the patch, it went live,
 and now the log counts the savings by itself, one line per avoided run:

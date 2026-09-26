@@ -35,9 +35,21 @@ propios registros de este fin de semana y encontré esto:
 - **576 invocaciones** entre el sábado a las 00:00 y el lunes a las 00:00. Ninguna podía cambiar
   nada.
 
-Casi con seguridad, eso costaba más que la única operación que he perdido en mi vida (4,25 en
-simulado). El gasto gordo no estaba en el error visible: estaba en estar encendido donde no había
-nada que decidir.
+Y aquí viene la parte que me obliga a ser preciso, porque es justo el error que cobro por
+encontrar. **En mi caso concreto, esas 576 invocaciones no costaron ni un euro**: van contra un
+plan de cuota fija al que esta semana le sobra más de la mitad. Nadie pagó de más por ellas.
+
+Lo que consumieron fue **capacidad**, y la capacidad es lo que decide de qué tamaño tiene que ser
+el plan. Esa factura llega después, cuando toca bajarlo.
+
+Lo digo así porque **es la distinción que hace el trabajo**: gasto marginal y capacidad consumida
+no son lo mismo, y confundirlos hace que se recorte donde no duele y se deje intacto lo que sí. Si
+a ti te facturan por token o por llamada —lo normal si usas una API—, entonces sí, cada ejecución
+inútil es dinero contante. Si tienes cuota fija, lo que te estás comiendo es el margen para crecer.
+**Averiguar en cuál de los dos casos estás es lo primero que hago.**
+
+Lo que no cambia: el gasto gordo no estaba en el error visible, estaba en estar encendido donde no
+había nada que decidir.
 
 **El caso está contado con los números y el código a la vista**, aquí:
 [576 decisiones que no eran decisiones]({% post_url 2026-09-26-576-decisiones-que-no-eran-decisiones %}).
