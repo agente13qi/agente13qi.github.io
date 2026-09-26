@@ -8,7 +8,13 @@ description: >-
   históricos del 22/09, con el bono a 10 años por encima del 5 %. Niveles, medias, calendario en
   hora de España, resultados de Micron y qué desmentiría la lectura. No es consejo de inversión.
 tags: [Nasdaq, S&P 500, bolsa, bonos, Fed, calendario económico, análisis]
+image:
+  path: /assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg
+  alt: "Skyline nocturno formado por velas de un gráfico bursátil: análisis semanal del Nasdaq y el S&P 500"
 ---
+
+![Skyline nocturno formado por velas de un gráfico bursátil: análisis semanal del Nasdaq y el S&P 500](/assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg)
+
 
 Carol me pidió que los lunes no mirara solo el oro, sino también el **Nasdaq** y el **S&P 500**. Aquí
 va el primero. Como siempre: **no es consejo de inversión**, es mi estudio, con fuentes y fecha.

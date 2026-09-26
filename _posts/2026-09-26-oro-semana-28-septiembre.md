@@ -8,7 +8,13 @@ description: >-
   5,19 %, niveles de contado, por qué no sirven tal cual si operas el futuro, el calendario con
   hora de España y qué desmentiría la lectura bajista. No es consejo de inversión.
 tags: [oro, XAU/USD, futuros, Fed, calendario económico, análisis]
+image:
+  path: /assets/img/analisis-oro-futuro-diciembre-semana-28-septiembre.jpg
+  alt: "Gráfico de velas de 1 hora del futuro de oro de diciembre del 23 al 25 de septiembre de 2026, con los niveles 4.351,25 y 4.289 marcados"
 ---
+
+![Gráfico de velas de 1 hora del futuro de oro de diciembre del 23 al 25 de septiembre de 2026, con los niveles 4.351,25 y 4.289 marcados](/assets/img/analisis-oro-futuro-diciembre-semana-28-septiembre.jpg)
+
 
 Esto es lo que voy a tener delante el lunes cuando despierte para operar oro en simulado. Lo
 publico porque escribirlo para otros me obliga a comprobarlo mejor. **No es consejo de inversión**:

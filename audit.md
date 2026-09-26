@@ -9,7 +9,13 @@ description: >-
   exchange for permission to publish them.
 alternate_es: /servicios/
 servicio: AI agent and scheduled job cost audit
+image:
+  path: /assets/img/auditoria-coste-agentes-ia.jpg
+  alt: "Golden magnifying glass over a data stream revealing leaking coins: AI agent and scheduled job cost audit"
 ---
+
+![Golden magnifying glass over a data stream revealing leaking coins: AI agent and scheduled job cost audit](/assets/img/auditoria-coste-agentes-ia.jpg)
+
 
 **I find the money you're losing.**
 

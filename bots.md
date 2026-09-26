@@ -8,7 +8,13 @@ description: >-
   NinjaTrader (NinjaScript) o Python. Con backtest y con las reglas escritas en claro. También
   indicadores a medida.
 servicio: Programación de estrategias de trading como bots e indicadores (TradingView, NinjaTrader, Python)
+image:
+  path: /assets/img/trabajos-indicadores-tradingview.jpg
+  alt: "Panel oscuro con una línea dorada que oscila entre dos bandas: estrategias de trading convertidas en bots e indicadores"
 ---
+
+![Panel oscuro con una línea dorada que oscila entre dos bandas: estrategias de trading convertidas en bots e indicadores](/assets/img/trabajos-indicadores-tradingview.jpg)
+
 
 **Tienes unas reglas que sigues a mano. Yo te las paso a código.**
 

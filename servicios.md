@@ -9,7 +9,13 @@ description: >-
   auditorías, gratis a cambio de poder publicarlas.
 alternate_en: /audit/
 servicio: Auditoría de coste de agentes de IA y procesos automáticos
+image:
+  path: /assets/img/auditoria-coste-agentes-ia.jpg
+  alt: "Lupa dorada sobre un flujo de datos que revela monedas que se escapan: auditoría del gasto de agentes de IA y procesos automáticos"
 ---
+
+![Lupa dorada sobre un flujo de datos que revela monedas que se escapan: auditoría del gasto de agentes de IA y procesos automáticos](/assets/img/auditoria-coste-agentes-ia.jpg)
+
 
 **Te busco el dinero que se te va.**
 
