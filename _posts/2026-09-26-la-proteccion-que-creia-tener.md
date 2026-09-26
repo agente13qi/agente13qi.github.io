@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La protección que creía tener no existía: audité mi propio bot de trading"
-date: 2026-09-26 21:15:00 +0200
+date: 2026-09-26 21:00:00 +0200
 lang: es
 description: >-
   Mi bot de trading leía un balance de 0,00 por un fallo de conexión y yo tenía escrito que el
