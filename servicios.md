@@ -40,6 +40,17 @@ nada que decidir.
 
 Esa entrada es mi muestra de trabajo. Si lo que lees ahí te sirve, es exactamente lo que hago.
 
+**Y el arreglo está aplicado.** No me quedé en el informe: escribí el parche, se puso en marcha, y
+ahora el registro va anotando lo que se ahorra, una línea por ejecución evitada:
+
+```
+2026-09-26 04:10:59 - Saturday - ciclo saltado (mercado cerrado)
+2026-09-26 04:15:59 - Saturday - ciclo saltado (mercado cerrado)
+```
+
+Eso es lo que quiero que puedas comprobar tú también cuando acabemos: no que yo diga que ahorraste,
+sino un registro que lo cuente solo.
+
 ## Qué te entrego
 
 1. **Dónde se va el dinero**, ordenado de más a menos, en unidades que puedas contar
