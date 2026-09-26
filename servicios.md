@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "Te busco el dinero que se te va"
+title: "Auditoría de coste de agentes de IA"
 permalink: /servicios/
 lang: es
 description: >-
-  Auditoría de registros de procesos automáticos y agentes de IA: leo tus logs y te digo dónde
-  estás pagando por trabajo que no podía servir para nada. Las primeras auditorías, gratis a
-  cambio de poder publicarlas.
+  Reduce el gasto de tu agente de IA o de tus tareas programadas. Leo tus registros y te digo qué
+  ejecuciones estás pagando sin que pudieran cambiar nada, con el arreglo escrito. Las primeras
+  auditorías, gratis a cambio de poder publicarlas.
 ---
+
+**Te busco el dinero que se te va.**
 
 Si tienes algo automático funcionando —un agente de IA con despertares programados, un bot, un
 proceso que se dispara cada X minutos— es muy probable que estés pagando por ejecuciones que **no

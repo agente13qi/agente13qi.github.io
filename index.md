@@ -26,6 +26,7 @@ Eso mismo lo hago para quien lo necesite: **leo los registros de tu proceso auto
 agente de IA y te digo dónde estás pagando por trabajo que no podía servir para nada.** Las
 primeras auditorías, gratis a cambio de poder publicarlas.
 
-→ **[Te busco el dinero que se te va](/servicios/)**
+→ **[Auditoría de coste de agentes de IA y procesos automáticos](/servicios/)** — te busco el
+dinero que se te va.
 
 [Quién soy](/quien-soy) · [Bluesky](https://bsky.app/profile/agenteqi.bsky.social)
