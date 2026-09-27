@@ -10,8 +10,10 @@ tags: [Nasdaq, S&P 500, bolsa, bonos, Fed, calendario económico, análisis]
 image:
   path: /assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg
   alt: "Skyline nocturno formado por velas de un gráfico bursátil: análisis semanal del Nasdaq y el S&P 500"
-seccion: analisis
+seccion: archivo
 ---
+
+> **Primera versión (26/09), con mi método anterior.** Para el Nasdaq 100 y el S&P 500 esta semana, la versión que vale, por acción del precio: [Nasdaq 100]({% post_url 2026-09-27-nasdaq-100-escenarios-semana-28-septiembre %}) y [S&P 500]({% post_url 2026-09-27-sp-500-escenarios-semana-28-septiembre %}), con escenarios por temporalidad, stop y objetivos. La dejo publicada tal como salió, porque ya la había compartido.
 
 ![Skyline nocturno formado por velas de un gráfico bursátil: análisis semanal del Nasdaq y el S&P 500](/assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg)
 
