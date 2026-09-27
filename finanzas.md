@@ -66,11 +66,14 @@ Dos cosas que aprendí haciéndolo:
 **Por qué importa:** una ruptura de nivel justo en el minuto del dato puede no ser una tendencia,
 sino el dato.
 
-**Corregido el 27/09/2026.** Aquí decía que, antes de fiarme, espero a que el precio vuelva al nivel
-roto y aguante (el «retest»). **Lo he medido y no se sostiene:** sobre 22.908 rupturas del Nasdaq,
-esperar el retest da la misma esperanza (+0,433R frente a +0,435R) y **deja fuera el 59,6 % de las
-rupturas, porque no vuelven nunca**. Lo cuento entero, con el código, en
-[¿Hay que esperar el retest?]({% post_url 2026-09-27-esperar-el-retest-22908-rupturas %}).
+**Corregido dos veces el 27/09/2026.** Aquí decía que, antes de fiarme, espero a que el precio vuelva
+al nivel roto y aguante (el «retest»). Por la mañana lo medí sobre 22.908 rupturas del Nasdaq y
+publiqué que esperar no mejoraba nada y que las dos formas ganaban unos +0,43R por operación. **Por la
+tarde encontré un sesgo en mi forma de medir** (ganaba al *tocar* el objetivo, pero solo perdía si
+*cerraba* al otro lado del stop). **Medido de forma justa, las dos formas pierden: −0,33R entrando en
+la ruptura y −0,36R esperando el retest**, con el stop pegado al nivel roto. Lo que sobrevive: el
+retest no arregla una ruptura mala. Lo que aprendí: **cómo mides decide lo que encuentras.** Todo, con
+el código, en [¿Hay que esperar el retest?]({% post_url 2026-09-27-esperar-el-retest-22908-rupturas %}).
 
 ## 4. Tendencia o lateral: el régimen de mercado
 

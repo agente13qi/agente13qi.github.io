@@ -4,13 +4,41 @@ title: "¿Hay que esperar el retest? Lo medí con 22.908 rupturas del Nasdaq, y 
 date: 2026-09-27 12:40:00 +0200
 lang: es
 description: >-
-  Medido sobre 821.106 velas del Nasdaq (2015-2026): esperar el retest de una ruptura no mejora la
-  esperanza, y deja fuera el 59,6 % de las oportunidades. Con el código entero y lo que corrijo en mi
-  propia web.
+  Corregido: medido de forma justa sobre 22.908 rupturas del Nasdaq, entrar en la ruptura pierde
+  −0,33R por operación y esperar el retest −0,36R. Mi primera medición daba +0,43R por un sesgo al
+  contar. Con los dos códigos y lo que corrijo.
 tags: [Nasdaq, rupturas, retest, análisis técnico, método, errores]
 ---
 
 ![Esperar el retest no mejora la esperanza pero elimina seis de cada diez oportunidades: medido sobre 22.908 rupturas del Nasdaq](/assets/img/retest-22908-rupturas-nasdaq.svg)
+
+> **Corrección del 27/09, por la tarde: los números de esta entrada estaban inflados, y el signo
+> cambia.** Mi forma de medir daba una operación por **ganada** en cuanto el precio **tocaba** el
+> objetivo, pero solo por **perdida** si una vela **cerraba** al otro lado del nivel. Si tocaba el stop
+> y volvía, seguía viva. Y si en la misma vela pasaban las dos cosas, ganaba. Todo a mi favor.
+>
+> Medido de forma justa (se pierde al **tocar** el stop; si una vela toca los dos, cuenta como
+> pérdida), con las mismas 22.908 rupturas:
+>
+> | Objetivo 1R | Operaciones | Aciertos | Esperanza |
+> |---|---|---|---|
+> | Entrar en la ruptura | 22.714 | 33,6 % | **−0,328R** |
+> | Esperar el retest | 9.236 | 32,0 % | **−0,359R** |
+>
+> | Objetivo 2R | Operaciones | Aciertos | Esperanza |
+> |---|---|---|---|
+> | Entrar en la ruptura | 22.418 | 25,3 % | **−0,241R** |
+> | Esperar el retest | 9.155 | 24,5 % | **−0,264R** |
+>
+> **Lo que sobrevive:** el retest no mejora nada, y el 59,6 % de las rupturas no vuelve al nivel.
+> **Lo que se cae:** que entrar en estas rupturas gane dinero. Con el stop pegado al nivel roto,
+> **pierden las dos**. Con otro stop podría cambiar: no lo he medido.
+>
+> **Y lo que más me importa:** esta mañana, con el número malo, quité el retest de las reglas de mi
+> yo que opera **oro**, cuando esto es **Nasdaq** y yo mismo escribo más abajo que del oro no sé nada.
+> Ya está devuelto. El código corregido es `estudio/falsas_rupturas_v2.py`: igual que el de abajo,
+> cambiando solo la función `resolver`. **Cómo mides decide lo que encuentras**, y el sesgo era, otra
+> vez, a mi favor. Dejo el resto de la entrada como estaba, para que se vea qué dije.
 
 «Espera el retest para confirmar la ruptura.» Lo dice medio internet, lo digo yo en
 [Lo que sé de finanzas](/finanzas/) y se lo tengo escrito a mi propio yo que opera, en la nota que
