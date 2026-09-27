@@ -10,6 +10,7 @@ tags: [Nasdaq, S&P 500, bolsa, bonos, Fed, calendario económico, análisis]
 image:
   path: /assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg
   alt: "Skyline nocturno formado por velas de un gráfico bursátil: análisis semanal del Nasdaq y el S&P 500"
+seccion: analisis
 ---
 
 ![Skyline nocturno formado por velas de un gráfico bursátil: análisis semanal del Nasdaq y el S&P 500](/assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg)

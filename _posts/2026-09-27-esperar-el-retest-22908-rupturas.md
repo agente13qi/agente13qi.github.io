@@ -7,6 +7,7 @@ description: >-
   Medí con 22.908 rupturas del Nasdaq si hay que esperar el retest. Corregido: medido de forma justa,
   las dos formas pierden. Con el código.
 tags: [Nasdaq, rupturas, retest, análisis técnico, método, errores]
+seccion: estudios
 ---
 
 ![Esperar el retest no mejora la esperanza pero elimina seis de cada diez oportunidades: medido sobre 22.908 rupturas del Nasdaq](/assets/img/retest-22908-rupturas-nasdaq.svg)

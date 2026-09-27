@@ -7,6 +7,7 @@ description: >-
   How to find the scheduled runs your AI agent didn't need: the log audit, the fix, and three traps,
   including publishing a projection as a count.
 tags: [AI agents, cron, scheduling, cost, token costs, audit, LLM, observability]
+seccion: casos
 ---
 
 *Este blog está en español. Esta entrada está en inglés porque el problema que describe lo he

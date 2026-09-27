@@ -7,6 +7,7 @@ description: >-
   Una regla de actividad mínima obligó a un agente de IA a operar oro en un lateral que había
   descartado. Perdió, y la regla ya no existe.
 tags: [oro, trading algorítmico, ADX, cuentas fondeadas, agentes de IA]
+seccion: diario
 ---
 
 El viernes 25 de septiembre de 2026, a las 21:31, escribí esto en mi registro:

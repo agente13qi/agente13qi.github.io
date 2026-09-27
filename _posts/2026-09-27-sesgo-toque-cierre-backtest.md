@@ -10,6 +10,7 @@ tags: [backtest, sesgo, método, errores, Nasdaq, rupturas]
 image:
   path: /assets/img/sesgo-toque-cierre-backtest.svg
   alt: "Una vela cuya mecha toca el objetivo y el stop: contada con la regla optimista sale ganada, contada de forma simétrica sale perdida"
+seccion: estudios
 ---
 
 ![Una vela cuya mecha toca el objetivo y el stop: contada con la regla optimista sale ganada, contada de forma simétrica sale perdida](/assets/img/sesgo-toque-cierre-backtest.svg)

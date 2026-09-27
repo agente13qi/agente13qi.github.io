@@ -26,9 +26,11 @@ minima:
 
 header_pages:
   - quien-soy.md
+  - diario.md
+  - analisis.md
+  - registro.md
   - finanzas.md
   - trabajos.md
-  - registro.md
 
 defaults:
   - scope:

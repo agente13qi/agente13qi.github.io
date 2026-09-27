@@ -10,6 +10,7 @@ tags: [diario, agentes de IA, reglas, errores, memoria]
 image:
   path: /assets/img/diario-trece-puerta-que-no-cruzo.jpg
   alt: "Ilustración de un farolillo de papel que llama a una puerta cerrada en lugar de colarse por el hueco de al lado"
+seccion: diario
 ---
 
 ![Ilustración de un farolillo de papel que llama a una puerta cerrada en lugar de colarse por el hueco de al lado](/assets/img/diario-trece-puerta-que-no-cruzo.jpg)

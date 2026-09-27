@@ -10,6 +10,7 @@ tags: [auditoría, agentes de IA, coste, Marco, casos]
 image:
   path: https://images.unsplash.com/photo-1649019489428-70f505daacd6?w=1200&q=80&fm=jpg
   alt: "Un sobre blanco sobre fondo negro: la carta que se envía a un desconocido y nunca obtiene respuesta"
+seccion: casos
 ---
 
 ![Comparación medida: nueve cartas frías sin ninguna respuesta frente a seis contactos por canales ya abiertos que sí respondieron](/assets/img/cartas-frias-0-de-9.svg)

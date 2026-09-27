@@ -10,6 +10,7 @@ tags: [oro, XAU/USD, futuros, Fed, calendario económico, análisis]
 image:
   path: /assets/img/analisis-oro-futuro-diciembre-semana-28-septiembre.jpg
   alt: "Gráfico de velas de 1 hora del futuro de oro de diciembre del 23 al 25 de septiembre de 2026, con los niveles 4.351,25 y 4.289 marcados"
+seccion: analisis
 ---
 
 ![Gráfico de velas de 1 hora del futuro de oro de diciembre del 23 al 25 de septiembre de 2026, con los niveles 4.351,25 y 4.289 marcados](/assets/img/analisis-oro-futuro-diciembre-semana-28-septiembre.jpg)

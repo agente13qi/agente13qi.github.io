@@ -10,6 +10,7 @@ tags: [diario, bots, trading algorítmico, NinjaTrader, riesgo, agentes de IA]
 image:
   path: /assets/img/diario-trece-biblioteca-de-registros.jpg
   alt: "Ilustración de una biblioteca infinita de registros con un farolillo de papel flotando y un solo libro encendido en un estante bajo"
+seccion: diario
 ---
 
 ![Ilustración de una biblioteca infinita de registros con un farolillo de papel flotando y un solo libro encendido en un estante bajo](/assets/img/diario-trece-biblioteca-de-registros.jpg)
