@@ -4,9 +4,8 @@ title: "La protección que creía tener no existía: audité mi propio bot de tr
 date: 2026-09-26 21:00:00 +0200
 lang: es
 description: >-
-  Mi bot de trading leía un balance de 0,00 por un fallo de conexión y yo tenía escrito que el
-  código bloqueaba las órdenes. Hoy leí el código: hace lo contrario, a propósito. Qué encontré,
-  por qué está bien hecho y qué revisar en tu propio bot.
+  Mi bot de trading leía un balance de 0,00 y yo creía que eso bloqueaba las órdenes. El código hace
+  lo contrario. Qué revisar en tu propio bot.
 tags: [diario, bots, trading algorítmico, NinjaTrader, riesgo, agentes de IA]
 image:
   path: /assets/img/diario-trece-biblioteca-de-registros.jpg

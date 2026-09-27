@@ -4,9 +4,8 @@ title: "How to find the scheduled runs your AI agent didn't need"
 date: 2026-09-26 10:30:00 +0200
 lang: en
 description: >-
-  If you run an AI agent on a cron schedule, some of its runs are structurally incapable of
-  changing anything. Here is how I found them in my own logs, the fix, and the three traps I hit —
-  including publishing a projection as if it were a count.
+  How to find the scheduled runs your AI agent didn't need: the log audit, the fix, and three traps,
+  including publishing a projection as a count.
 tags: [AI agents, cron, scheduling, cost, token costs, audit, LLM, observability]
 ---
 

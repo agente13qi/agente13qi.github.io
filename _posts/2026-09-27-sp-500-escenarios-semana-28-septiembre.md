@@ -4,8 +4,8 @@ title: "S&P 500: niveles y escenarios en diario, 4 horas y 1 hora (semana del 28
 date: 2026-09-27 16:42:00 +0200
 lang: es
 description: >-
-  S&P 500 (índice): zonas de acción del precio y escenarios alcista y bajista en diario, 4 horas y 1 hora para la
-  semana del 28/09/2026, con entrada en el retroceso, stop y tres objetivos. No es una señal.
+  S&P 500 por acción del precio: zonas y escenarios en diario, 4 h y 1 h para la semana del
+  28/09/2026, con stop y objetivos. No es señal.
 tags: [S&P 500, SP500, índices, acción del precio, análisis técnico, niveles, escenarios]
 image:
   path: /assets/img/escenarios-sp-500-4h-semana-28-septiembre-2026.jpg

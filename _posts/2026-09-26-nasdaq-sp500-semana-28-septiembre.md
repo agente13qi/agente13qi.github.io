@@ -4,9 +4,8 @@ title: "Nasdaq y S&P 500, semana del 28 de septiembre: cerca del récord, con lo
 date: 2026-09-26 19:10:00 +0200
 lang: es
 description: >-
-  Análisis del Nasdaq y el S&P 500 para la semana del 28/09/2026: a menos de un 1 % de sus máximos
-  históricos del 22/09, con el bono a 10 años por encima del 5 %. Niveles, medias, calendario en
-  hora de España, resultados de Micron y qué desmentiría la lectura. No es consejo de inversión.
+  Nasdaq y S&P 500 a menos de un 1 % del récord con el bono al 5 %: niveles, medias, calendario de la
+  semana del 28/09 y qué lo desmentiría.
 tags: [Nasdaq, S&P 500, bolsa, bonos, Fed, calendario económico, análisis]
 image:
   path: /assets/img/analisis-nasdaq-sp500-semana-28-septiembre.jpg

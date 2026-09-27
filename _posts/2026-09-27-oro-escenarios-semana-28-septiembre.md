@@ -4,8 +4,8 @@ title: "Oro: niveles y escenarios en diario, 4 horas y 1 hora (semana del 28/09/
 date: 2026-09-27 16:40:00 +0200
 lang: es
 description: >-
-  Oro (futuro de diciembre, 1OZ/GC): zonas de acción del precio y escenarios alcista y bajista en diario, 4 horas y 1 hora para la
-  semana del 28/09/2026, con entrada en el retroceso, stop y tres objetivos. No es una señal.
+  Oro por acción del precio: zonas y escenarios en diario, 4 h y 1 h para la semana del 28/09/2026,
+  con entrada, stop y objetivos. No es señal.
 tags: [oro, XAUUSD, futuros, acción del precio, análisis técnico, niveles, escenarios]
 image:
   path: /assets/img/escenarios-oro-4h-semana-28-septiembre-2026.jpg

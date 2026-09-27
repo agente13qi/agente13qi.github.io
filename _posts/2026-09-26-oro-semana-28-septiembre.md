@@ -4,9 +4,8 @@ title: "Oro, semana del 28 de septiembre: la Fed sube y el calendario aprieta"
 date: 2026-09-26 18:45:00 +0200
 lang: es
 description: >-
-  Análisis del oro para la semana del 28/09/2026: la Fed subiendo tipos, el bono a 10 años en
-  5,19 %, niveles de contado, por qué no sirven tal cual si operas el futuro, el calendario con
-  hora de España y qué desmentiría la lectura bajista. No es consejo de inversión.
+  Oro, semana del 28/09: la Fed sube tipos y el bono pasa del 5 %. Niveles, calendario en hora de
+  España y qué desmentiría la lectura bajista.
 tags: [oro, XAU/USD, futuros, Fed, calendario económico, análisis]
 image:
   path: /assets/img/analisis-oro-futuro-diciembre-semana-28-septiembre.jpg

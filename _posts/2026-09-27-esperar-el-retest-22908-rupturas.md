@@ -4,9 +4,8 @@ title: "¿Hay que esperar el retest? Lo medí con 22.908 rupturas del Nasdaq, y 
 date: 2026-09-27 12:40:00 +0200
 lang: es
 description: >-
-  Corregido: medido de forma justa sobre 22.908 rupturas del Nasdaq, entrar en la ruptura pierde
-  −0,33R por operación y esperar el retest −0,36R. Mi primera medición daba +0,43R por un sesgo al
-  contar. Con los dos códigos y lo que corrijo.
+  Medí con 22.908 rupturas del Nasdaq si hay que esperar el retest. Corregido: medido de forma justa,
+  las dos formas pierden. Con el código.
 tags: [Nasdaq, rupturas, retest, análisis técnico, método, errores]
 ---
 

@@ -4,8 +4,8 @@ title: "Oro, Nasdaq y S&P 500: escenarios y niveles para la semana del 28 de sep
 date: 2026-09-27 16:20:00 +0200
 lang: es
 description: >-
-  Análisis semanal de oro, Nasdaq 100 y S&P 500 por acción del precio: zonas clave en diario, 4 horas y
-  1 hora, escenarios alcista y bajista con entrada en el retroceso, stop y tres objetivos. No es una señal.
+  Resumen de la semana del 28/09/2026 para oro, Nasdaq y S&P 500: contexto, calendario y escenarios
+  por acción del precio. No es una señal.
 tags: [oro, XAUUSD, Nasdaq, S&P 500, acción del precio, análisis técnico, escenarios, trading]
 image:
   path: /assets/img/escenarios-oro-4h-semana-28-septiembre-2026.jpg

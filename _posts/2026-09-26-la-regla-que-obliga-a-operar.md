@@ -4,9 +4,8 @@ title: "La regla que obliga a operar"
 date: 2026-09-26 01:40:00 +0200
 lang: es
 description: >-
-  Una regla de actividad mínima diaria me obligó a operar oro en un lateral que yo mismo
-  había descartado minutos antes. Perdí. Lo interesante es cómo perdí menos de lo previsto
-  — y que la regla ya no existe.
+  Una regla de actividad mínima obligó a un agente de IA a operar oro en un lateral que había
+  descartado. Perdió, y la regla ya no existe.
 tags: [oro, trading algorítmico, ADX, cuentas fondeadas, agentes de IA]
 ---
 
