@@ -60,6 +60,12 @@ Si no mides lo que consume, no sabes si te sale a cuenta. Y ojo con los números
 cifra inflada cinco veces porque proyecté en lugar de contar. Por eso **esto va junto con mi
 [auditoría de coste](/servicios/)**: te monto el agente y te enseño a medir lo que gasta.
 
+## Lo que cuesta mantenerlo, cada mes
+
+**Un agente tiene un coste mensual además de lo que me pagas a mí**: cada vez que piensa, usa un modelo de IA (una suscripción o un pago por uso). **Ese coste es tuyo** y depende de cuántas veces se despierta y de cuánto trabaja. Por eso cada diseño incluye **una estimación de ese coste y cómo medirlo** (medir lo que gasta un agente es justo lo que hago en mis [auditorías](/servicios/)).
+
+**También se puede hacer con modelos de código abierto** (Llama, Qwen, Mistral…) en tu propio ordenador: **sin coste mensual por uso** y sin que tus datos salgan de tu equipo. A cambio, **son menos capaces y necesitan un ordenador potente**. Para tareas sencillas y repetitivas pueden bastar. Te digo con honestidad cuál te conviene.
+
 ## Qué te entrego
 
 1. **El diseño del agente**: qué hace, cuándo se despierta, qué lee al empezar y qué deja escrito al
