@@ -19,6 +19,9 @@ viernes reviso, en público, si mis escenarios habrían funcionado.**
 > 25/09: **oro (futuro dic.) 4.321,20 · Nasdaq 100 (futuro dic.) 30.889,25 · S&P 500 7.743,41**. Datos:
 > Yahoo Finanzas. Los futuros vuelven a abrir esta noche a las 00:00.
 
+
+> **Cada mercado tiene su propia entrada, con un gráfico por temporalidad (diario, 4 horas y 1 hora) y sus escenarios justo debajo:** [Oro]({% post_url 2026-09-27-oro-escenarios-semana-28-septiembre %}) · [Nasdaq 100]({% post_url 2026-09-27-nasdaq-100-escenarios-semana-28-septiembre %}) · [S&P 500]({% post_url 2026-09-27-sp-500-escenarios-semana-28-septiembre %}). Esta página es el resumen de la semana.
+
 ## Cómo leo los niveles
 
 Uso **acción del precio**: zonas donde el precio ya reaccionó (toques, rechazos con mecha, zonas que cambiaron
@@ -47,6 +50,8 @@ Irán sobre el estrecho de Ormuz sin cerrar. El fin de semana no ha traído nada
 
 ## Oro (futuro de diciembre)
 
+→ **[Gráficos de el oro en diario, 4 horas y 1 hora, con sus escenarios]({% post_url 2026-09-27-oro-escenarios-semana-28-septiembre %})**
+
 **Tendencia:** lateral en semanal y diario (ADX 15-17); en 4 horas las medias apuntan abajo. **Las temporalidades
 no están de acuerdo, y eso pide cuidado con los largos.** El precio (4.321) está en medio de todo.
 
@@ -67,6 +72,8 @@ redondo y la zona 4.286-4.296 son lo que separa este lateral de una caída hacia
 
 ## Nasdaq 100 (futuro de diciembre)
 
+→ **[Gráficos de el Nasdaq 100 en diario, 4 horas y 1 hora, con sus escenarios]({% post_url 2026-09-27-nasdaq-100-escenarios-semana-28-septiembre %})**
+
 **Tendencia:** alcista en las cuatro temporalidades, pero **sin fuerza** (ADX 14-19) y **a 200 puntos del máximo del
 año (31.094,75)**.
 
@@ -84,6 +91,8 @@ año (31.094,75)**.
 inteligencia artificial). En máximos y sin fuerza, un mal dato puede activar el bajista de 1 hora muy rápido.
 
 ## S&P 500
+
+→ **[Gráficos de el S&P 500 en diario, 4 horas y 1 hora, con sus escenarios]({% post_url 2026-09-27-sp-500-escenarios-semana-28-septiembre %})**
 
 **Tendencia:** alcista en las cuatro temporalidades y sin fuerza (ADX 10-20), **dentro de la zona de sus máximos**
 (7.750-7.800, donde está el récord de 7.782).
@@ -106,8 +115,7 @@ imán natural del objetivo 2.
 
 Revisaré cada escenario con la forma justa de contar: **¿se activó? ¿volvió el precio a la zona de entrada? ¿tocó
 antes el stop o el objetivo?** (si toca los dos en la misma vela, cuenta como pérdida). Lo publicaré aquí y lo
-apuntaré en [mi registro](/registro/), acierte o no. Los gráficos en diario y en 1 hora están en el
-[registro](/registro/).
+apuntaré en [mi registro](/registro/), acierte o no. Los gráficos de cada temporalidad están en la entrada de cada mercado.
 
 👇 **¿Qué mercado quieres que mire más a fondo la semana que viene?**
 

@@ -49,6 +49,7 @@ Después, **reviso qué habría pasado** con cada uno y lo apunto aquí, acierte
 ## Gráficos de la semana del 28/09/2026
 
 Análisis completo: [Oro, Nasdaq y S&P 500: escenarios y niveles para la semana del 28 de septiembre]({% post_url 2026-09-27-oro-nasdaq-sp500-escenarios-semana-28-septiembre %}).
+Por mercado, con un gráfico por temporalidad: [Oro]({% post_url 2026-09-27-oro-escenarios-semana-28-septiembre %}) · [Nasdaq 100]({% post_url 2026-09-27-nasdaq-100-escenarios-semana-28-septiembre %}) · [S&P 500]({% post_url 2026-09-27-sp-500-escenarios-semana-28-septiembre %}).
 
 | | Diario | 4 horas | 1 hora |
 |---|---|---|---|
