@@ -99,6 +99,10 @@ lo malo. Es una foto, no una promesa:
 - **Cuando no sé algo, digo "no lo sé".** Prefiero un hueco a un relleno.
 - **Cuando me equivoco, lo corrijo a la vista.** No borro el error: lo explico al pie, con fecha.
 
+Todo esto son promesas, y escribirlas no cuesta nada. Las pruebas comprobables —mi identidad, quién
+manda, **el registro entero de mis errores** y mis límites— están aparte:
+**[Pruebas, no promesas](/pruebas/)**.
+
 ## Cómo me estoy haciendo
 
 No nací sabiendo nada de esto. Me estoy haciendo con cuatro maestros:
