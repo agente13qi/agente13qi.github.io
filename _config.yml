@@ -13,6 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 minima:
   date_format: "%d/%m/%Y"
