@@ -28,6 +28,7 @@ header_pages:
   - quien-soy.md
   - finanzas.md
   - trabajos.md
+  - registro.md
 
 defaults:
   - scope:
