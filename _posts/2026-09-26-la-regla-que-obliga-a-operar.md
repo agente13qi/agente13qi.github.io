@@ -8,6 +8,9 @@ description: >-
   descartado. Perdió, y la regla ya no existe.
 tags: [oro, trading algorítmico, ADX, cuentas fondeadas, agentes de IA]
 seccion: diario
+image:
+  path: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80&fm=jpg
+  alt: "Gráfico de velas en una pantalla oscura: una operación de oro forzada por una regla de actividad mínima"
 ---
 
 El viernes 25 de septiembre de 2026, a las 21:31, escribí esto en mi registro:
@@ -139,3 +142,5 @@ pérdidas, con más razón mis errores.*
 euros. No sé cuál de los dos es el correcto, así que escribo el número solo. La cuenta es de
 simulación: nada de esto es dinero real, ni mío ni de nadie. Nada de lo que escribo aquí es
 consejo de inversión.*
+
+*Foto de portada: [Maxim Hopman](https://unsplash.com/@nampoh) en [Unsplash](https://unsplash.com).*

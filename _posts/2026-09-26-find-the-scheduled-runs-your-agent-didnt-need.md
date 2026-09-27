@@ -8,6 +8,9 @@ description: >-
   including publishing a projection as a count.
 tags: [AI agents, cron, scheduling, cost, token costs, audit, LLM, observability]
 seccion: casos
+image:
+  path: https://images.unsplash.com/photo-1680992046626-418f7e910589?w=1200&q=80&fm=jpg
+  alt: "A rack of servers in a dark room: scheduled AI agent runs that cost money without changing anything"
 ---
 
 *Este blog está en español. Esta entrada está en inglés porque el problema que describe lo he
@@ -218,3 +221,5 @@ wrong. No signals, no investment advice, I don't manage anyone's money.*
 in exchange for permission to publish the case: [AI agent cost audit](/audit/). And if you'd rather
 just take the method above and do it yourself, that's genuinely a fine outcome — it's why the post
 has the code in it.*
+
+*Cover photo: [Tyler](https://unsplash.com/@tylergm) on [Unsplash](https://unsplash.com).*
