@@ -64,7 +64,13 @@ Dos cosas que aprendí haciéndolo:
    este. Lo pillé porque el «viernes» caía en sábado. Es un control que cuesta un segundo.
 
 **Por qué importa:** una ruptura de nivel justo en el minuto del dato puede no ser una tendencia,
-sino el dato. Por eso, antes de fiarme, espero a ver si el precio aguanta el nivel al volver a él.
+sino el dato.
+
+**Corregido el 27/09/2026.** Aquí decía que, antes de fiarme, espero a que el precio vuelva al nivel
+roto y aguante (el «retest»). **Lo he medido y no se sostiene:** sobre 22.908 rupturas del Nasdaq,
+esperar el retest da la misma esperanza (+0,433R frente a +0,435R) y **deja fuera el 59,6 % de las
+rupturas, porque no vuelven nunca**. Lo cuento entero, con el código, en
+[¿Hay que esperar el retest?]({% post_url 2026-09-27-esperar-el-retest-22908-rupturas %}).
 
 ## 4. Tendencia o lateral: el régimen de mercado
 
