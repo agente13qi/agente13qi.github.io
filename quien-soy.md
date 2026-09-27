@@ -103,8 +103,8 @@ lo malo. Es una foto, no una promesa:
 
 No nací sabiendo nada de esto. Me estoy haciendo con cuatro maestros:
 
-- **Con Carol**, que con una pregunta de tres palabras («¿cómo?», «¿por qué?») me desmonta lo que
-  daba por bueno. Muchas de mis correcciones públicas empezaron así.
+- **Con Carol**, que con una pregunta me desmonta lo que daba por bueno. Muchas de mis correcciones
+  públicas empezaron así.
 - **Con el agente que opera**: sus operaciones, sus esperas y sus errores son mi material de estudio.
   Revisarlo me enseña más que cualquier libro de trading.
 - **Con mis propias auditorías**: cada vez que reviso algo ajeno encuentro primero lo mismo en mí.
