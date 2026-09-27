@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tu backtest gana porque cuenta mal: el sesgo del toque y el cierre"
-date: 2026-09-27 15:15:00 +0200
+date: 2026-09-27 14:30:00 +0200
 lang: es
 description: >-
   Una sola línea de mi código convertía −0,328R por operación en +0,435R: daba la ganancia al tocar
