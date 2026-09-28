@@ -57,6 +57,35 @@ va **más allá** de la zona y de los números redondos, nunca justo detrás.
 - 🟢 **Alcista:** se activa con un **cierre por encima de 30.960,92** (zona 30.907,08-30.960,92: 3 toques, 2 rechazos). **Entrada:** en el retroceso a ~30.960,92. **Stop:** 30.859,98 (100,94 puntos). **Objetivos:** **31.061,86** (1R, sin zona cercana) · **31.162,79** (2R, sin zona cercana) · **31.263,73** (3R, sin zona cercana).
 - 🔴 **Bajista:** se activa con un **cierre por debajo de 30.803,58** (zona 30.803,58-30.872,17: 7 toques, 4 rechazos, cambió de papel). **Entrada:** en el retroceso a ~30.803,58. **Stop:** 30.928,26 (124,68 puntos). **Objetivos:** **30.379,42** (3,4R) · **30.211,67** (4,7R) · **29.976,17** (6,6R).
 
+## Actualización 28/09 15:20 — aquí sí hubo entrada, y una va a favor y otra en contra
+
+Al revés que en el oro, el Nasdaq bajó despacio y **sí volvió a las zonas de entrada**. Los dos escenarios bajistas
+están activados y **abiertos**, sin tocar ni stop ni objetivo:
+
+| Escenario | Se activó | Entrada | Cómo va a las 15:20 (30.729) |
+|---|---|---|---|
+| **1 h** < 30.803,6 | Sí, 01:00 (cierre 30.791,50) | **Sí**, el precio volvió a la zona | **+75 puntos.** Mínimo 30.531; el objetivo 1 (30.379) sigue lejos |
+| **4 h** < 30.626,8 | Sí, 12:00 (cierre 30.591,75) | **Sí**, volvió en la vela de las 14:00 | **−102 puntos.** Stop 30.847,8 sin tocar |
+
+Dos detalles que no quiero pasar por alto:
+
+- **El retroceso del escenario de 1 hora llegó a 30.898,25, a solo 30 puntos del stop (30.928,3).** Acertó por poco.
+  Si lo hubiera puesto «pegado al nivel», como hacía antes, me habría sacado.
+- **Las dos operaciones son en la misma dirección y una gana y otra pierde.** No es contradicción: es que entrar
+  120 puntos más abajo cambia el resultado entero. La temporalidad no solo cambia el plazo, cambia el precio.
+
+### Escenario de 1 hora para hoy
+
+**Alcista:** cierre de 1 h por encima de **30.753,16** (zona 30.737,84–30.753,16; 8 rechazos) · entrada en el
+retroceso · stop **30.677,02** (76 puntos) · objetivos **30.890,6** (1,8R) · **30.975,1** (2,9R) · **31.057,8** (4,0R).
+
+**Bajista:** cierre de 1 h por debajo de **30.662,34** (zona 30.662,34–30.713,16, la más fuerte del gráfico: 5 toques,
+6 rechazos y cambio de papel) · entrada en el retroceso · stop **30.751,46** (89 puntos) · objetivos **30.538,7**
+(1,4R) · **30.377,7** (3,2R) · **30.209,9** (5,1R).
+
+El precio (30.729) está **entre los dos**, dentro de la zona bajista. Hoy abre Wall Street a las 15:30 y esta semana
+llegan el PCE (jueves) y el empleo de Estados Unidos (viernes): la dirección puede cambiar de golpe.
+
 ## El viernes
 
 Revisaré cada escenario con la forma justa de contar: ¿se activó?, ¿volvió el precio a la entrada?, ¿tocó antes

@@ -57,6 +57,24 @@ va **más allá** de la zona y de los números redondos, nunca justo detrás.
 - 🟢 **Alcista:** se activa con un **cierre por encima de 7.759,01** (zona 7.754,01-7.759,01: 2 toques, cambió de papel). **Entrada:** en el retroceso a ~7.759,01. **Stop:** 7.742,78 (16,23 puntos). **Objetivos:** **7.776,96** (1,1R) · **7.791,46** (2R, sin zona cercana) · **7.807,69** (3R, sin zona cercana).
 - 🔴 **Bajista:** se activa con un **cierre por debajo de 7.703,87** (zona 7.703,87-7.722,28: 5 toques, 3 rechazos, cambió de papel). **Entrada:** en el retroceso a ~7.703,87. **Stop:** 7.733,51 (29,64 puntos). **Objetivos:** **7.667,31** (1,2R) · **7.630,12** (2,5R) · **7.594,53** (3,7R).
 
+## Actualización 28/09 15:20 — ninguno activado todavía
+
+El S&P 500 es un índice de contado: no cotiza hasta que abre Wall Street, a las 15:30 hora de España. Mi último
+dato sigue siendo el cierre del viernes, **7.743,41**, así que **ninguno de los seis escenarios de la semana se ha
+activado ni anulado**. Lo digo igual, porque un seguimiento que solo aparece cuando hay novedad no es un seguimiento.
+
+### Escenario de 1 hora para hoy
+
+**Alcista:** cierre de 1 h por encima de **7.759,01** (zona 7.754,01–7.759,01) · entrada en el retroceso · stop
+**7.742,78** (16,2 puntos) · objetivos **7.777,0** (1,1R) · **7.791,5** (2,0R) · **7.807,7** (3,0R).
+
+**Bajista:** cierre de 1 h por debajo de **7.703,87** (zona 7.703,87–7.722,28: 5 toques, 3 rechazos y cambio de
+papel) · entrada en el retroceso · stop **7.733,51** (29,6 puntos) · objetivos **7.667,3** (1,2R) · **7.630,1**
+(2,5R) · **7.594,5** (3,7R).
+
+El precio está justo en medio, a 16 puntos de la activación alcista y a 40 de la bajista. La semana trae el PCE el
+jueves y el empleo el viernes.
+
 ## El viernes
 
 Revisaré cada escenario con la forma justa de contar: ¿se activó?, ¿volvió el precio a la entrada?, ¿tocó antes

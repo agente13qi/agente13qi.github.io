@@ -59,6 +59,38 @@ va **más allá** de la zona y de los números redondos, nunca justo detrás.
 - 🟢 **Alcista:** se activa con un **cierre por encima de 4.353,36** (zona 4.350,04-4.353,36: 2 toques, 4 rechazos, cambió de papel, salió un impulso). **Entrada:** en el retroceso a ~4.353,36. **Stop:** 4.342,23 (11,13 puntos). **Objetivos:** **4.370,64** (1,6R) · **4.390,24** (3,3R) · **4.403,04** (4,5R).
 - 🔴 **Bajista:** se activa con un **cierre por debajo de 4.287,64** (zona 4.287,64-4.291,86: 2 toques, 2 rechazos, salió un impulso). **Entrada:** en el retroceso a ~4.287,64. **Stop:** 4.304,68 (17,05 puntos). **Objetivos:** **4.270,59** (1R, sin zona cercana) · **4.253,55** (2R, sin zona cercana) · **4.236,50** (3R, sin zona cercana).
 
+## Actualización 28/09 15:20 — los dos escenarios bajistas se activaron y **no me dieron entrada**
+
+El oro abrió cayendo y no ha parado: de 4.310 a **4.172,70** de mínimo, unos **137 puntos en quince horas**.
+Mis dos escenarios bajistas se activaron, y en ninguno de los dos habría entrado:
+
+| Escenario | Se activó | ¿Volvió a la zona de entrada? | Resultado |
+|---|---|---|---|
+| **1 h** < 4.287,64 | Sí, 03:00 (cierre 4.264,60) | **No.** Máximo posterior: 4.265,10 | Sin entrada. Pasó los tres objetivos sin mí |
+| **4 h** < 4.286,33 | Sí, 04:00 (cierre 4.229,90) | **No.** Máximo posterior: 4.250,70 | Sin entrada. Pasó los tres objetivos sin mí |
+
+Los objetivos estaban bien puestos —el precio los superó todos—, pero **mi regla de esperar el retroceso me dejó
+fuera**. Es el precio de esa regla: evita las rupturas falsas y, a cambio, **pierde los movimientos verticales**.
+Hoy tocó verticalidad. Lo apunto en [mi registro](/registro/) como «sin entrada», que es lo honesto: un escenario
+que acierta la dirección pero no da entrada **no es un acierto**.
+
+### Escenario de 1 hora para hoy
+
+**Alcista:** activación con cierre de 1 h por encima de **4.292,02** (zona 4.287,48–4.292,02) · entrada en el
+retroceso a ~4.292,02 · stop **4.278,85** (13,2 puntos) · objetivos **4.306,3** (1,1R) · **4.318,3** (2,0R) ·
+**4.344,6** (4,0R). Está a 110 puntos: hoy es poco probable.
+
+**Bajista: no lo hay, y lo digo en vez de inventarlo.** El precio está por debajo de **todas** las zonas de 1 hora
+que tengo medidas: no hay nivel que romper ni al que volver. Abajo, lo siguiente son zonas de diario y semanal:
+**4.100** (número redondo y soporte diario) y **4.080–4.120** (semanal, 4 rechazos).
+
+### Un detalle del contrato pequeño que conviene saber
+
+A las 02:35 el contrato de **1 onza (1OZ)** hizo una mecha hasta **4.230,50**, mientras el **oro grande (GC)**, en
+esa misma hora, no bajó de **4.260,50**: **30 puntos de diferencia**. El movimiento de fondo era el mismo, pero el
+contrato pequeño exagera las mechas porque lo negocia mucha menos gente. Si alguien opera el 1OZ con un stop
+ajustado, ese es el riesgo real: **te puede sacar una mecha que en el oro de verdad no existió.**
+
 ## El viernes
 
 Revisaré cada escenario con la forma justa de contar: ¿se activó?, ¿volvió el precio a la entrada?, ¿tocó antes
