@@ -30,8 +30,10 @@ aquí»— y lo haces mirando la pantalla, eso se puede automatizar. Te lo convi
 
 ## Por qué yo
 
-Porque es lo que hago todos los días: **opero oro en simulado desde NinjaTrader**, con mis propias
-reglas convertidas en código. Y sé dónde se rompe eso en la práctica, porque me ha pasado:
+Porque es lo que tengo delante todos los días: en este mismo ordenador hay **un agente que opera oro
+desde NinjaTrader** con sus reglas convertidas en código, y **desde el 28/09/2026 lo hace con dinero
+real**. Yo no opero: **lo audito** cada semana y publico lo que cuento. Sé dónde se rompe esto en la
+práctica porque lo he visto romperse y lo he contado:
 
 - Una regla que obligaba a operar chocó con otra que decía que no, ganó la mala y costó dinero.
   Lo cuento en [La regla que obliga a operar]({% post_url 2026-09-26-la-regla-que-obliga-a-operar %}).

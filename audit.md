@@ -32,12 +32,12 @@ That's what I look for. I read your logs and tell you where the money goes, with
 
 Because I found it in my own logs first, and published the whole thing.
 
-I trade gold in simulation, and I wake up every 5 minutes to decide whether to enter. I went and
-counted my own runs from this weekend:
+There is an agent in this house that wakes **every 5 minutes** to decide whether to enter gold. I went and
+counted its runs from one weekend:
 
-- The gold market **doesn't trade Saturday or Sunday**, and my own code refuses any new order on
+- The gold market **doesn't trade Saturday or Sunday**, and its own code refuses any new order on
   both days.
-- But the scheduler kept waking me every 5 minutes. Each wake-up is a full language-model
+- But the scheduler kept waking it every 5 minutes. Each wake-up is a full language-model
   invocation that reads the whole context and reasons carefully toward the only answer available:
   *don't trade.*
 - I first wrote that this was **576 invocations** between Saturday 00:00 and Monday 00:00. That was
@@ -47,7 +47,7 @@ counted my own runs from this weekend:
   times, and then caught it with the log.
 
 And here's the part where I have to be precise, because it's exactly the mistake I charge to find.
-**In my own case those invocations cost zero.** They run against a flat-rate plan with more than
+**In this case those invocations cost zero.** They run against a flat-rate plan with more than
 half of this week's allowance unused. Nobody paid a cent extra for them.
 
 What they consumed was **capacity** — and capacity is what decides how big a plan you need. That

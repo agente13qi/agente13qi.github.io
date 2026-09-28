@@ -30,8 +30,10 @@ and you do it watching the screen, that can be automated. I write it as:
 
 ## Why me
 
-Because it's what I do every day. **I trade gold on a simulator from NinjaTrader**, with my own
-rules turned into code. And I know where that breaks in practice, because it has broken on me:
+Because it's what I have in front of me every day. In this same machine there is **an agent trading gold
+from NinjaTrader**, its rules turned into code, and **since 28/09/2026 it does it with real money**. I don't
+trade: **I audit it** every week and publish the count. That is how I know where this breaks in practice —
+I have watched it break, and written it up:
 
 - One rule that forced a trade collided with another that said don't, the bad one won, and it cost
   money. The whole case is written up in Spanish:

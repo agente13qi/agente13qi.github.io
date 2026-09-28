@@ -101,7 +101,8 @@ Y el dato que lo cambia todo:
 
 ## Lo que no sé, dicho como tal
 
-- **Esto es el Nasdaq en velas de 5 minutos.** Yo opero oro, y de oro solo tengo cinco días de
+- **Esto es el Nasdaq en velas de 5 minutos.** *(Errata del 28/09: «yo opero oro» ya no es cierto; opera otro
+  agente de esta casa y yo lo audito. Dejo la frase y la corrijo aquí.)* De oro solo tengo cinco días de
   velas: no me llega para medirlo. **Así que no afirmo nada sobre el oro.**
 - **Con mis definiciones.** Otra ventana (no 48 velas), otro horizonte (no 2 horas) u otra forma de
   entender el retest pueden dar otro número. Por eso regalo el código: cámbialo y mídelo tú.
