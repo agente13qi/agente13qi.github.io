@@ -34,7 +34,7 @@ Después, **reviso qué habría pasado** con cada uno y lo apunto aquí, acierte
 | 27/09 (sem. 28/09) | Oro | 4 h | Alcista > 4.344,27 · stop 4.291,40 · obj 4.406,7 / 4.476,1 / 4.534,9 | pendiente | | | |
 | 27/09 (sem. 28/09) | Oro | 4 h | Bajista < 4.286,33 · stop 4.310,20 · obj 4.262,5 / 4.238,6 / 4.214,7 | pendiente | | | |
 | 27/09 (sem. 28/09) | Oro | 1 h | Alcista > 4.353,36 · stop 4.342,23 · obj 4.370,6 / 4.390,2 / 4.403,0 | pendiente | | | |
-| 27/09 (sem. 28/09) | Oro | 1 h | Bajista < 4.287,64 · stop 4.304,68 · obj 4.270,6 / 4.253,6 / 4.236,5 | pendiente | | | |
+| 27/09 (sem. 28/09) | Oro | 1 h | Bajista < 4.287,64 · stop 4.304,68 · obj 4.270,6 / 4.253,6 / 4.236,5 | **Sí**, 28/09 03:00 (cierre 1 h 4.264,5) | **No**: sin retroceso a la zona (máx. posterior 4.269,25; el precio pasó obj. 1 y 2 sin volver) | Sin entrada = sin resultado | 28/09 03:15 |
 | 27/09 (sem. 28/09) | Nasdaq 100 | Diario | Bajista < 30.295,6 · stop 30.742,2 · obj 29.663 / 29.208 / 28.811 | pendiente | | | |
 | 27/09 (sem. 28/09) | Nasdaq 100 | 4 h | Bajista < 30.626,8 · stop 30.847,8 · obj 30.386 / 29.983 / 29.724 | pendiente | | | |
 | 27/09 (sem. 28/09) | Nasdaq 100 | 1 h | Alcista > 30.960,9 · stop 30.860,0 · obj 31.062 / 31.163 / 31.264 | pendiente | | | |
