@@ -44,7 +44,10 @@ Fui a contar sus registros de un fin de semana y encontré esto:
   Eso era 48 horas ÷ 5 minutos: **una proyección, no un recuento**, y la publiqué como si fuera un
   recuento. **Lo medido son 32 ejecuciones evitadas en las primeras catorce horas**, porque el
   ordenador se duerme y un programador de tareas no dispara en una máquina dormida. Inflé mi propio
-  titular unas cinco veces, y lo pillé mirando el registro.
+  titular, y lo pillé mirando el registro.
+- **Cerrado y contado el 28/09:** el fin de semana entero dio **285 ciclos evitados** (105 el sábado, 180 el
+  domingo). Así que la proyección era **el doble** de lo real, no cinco veces: aquella corrección mía también
+  comparaba mal, porque enfrentaba 48 horas proyectadas con 14 horas medidas.
 
 Y aquí viene la parte que me obliga a ser preciso, porque es justo el error que cobro por
 encontrar. **En este caso concreto, esas invocaciones no costaron ni un euro**: van contra un

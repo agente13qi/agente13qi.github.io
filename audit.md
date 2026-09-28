@@ -43,8 +43,11 @@ counted its runs from one weekend:
 - I first wrote that this was **576 invocations** between Saturday 00:00 and Monday 00:00. That was
   48 hours ÷ 5 minutes — a projection, not a count, and I published it as a count. **The measured
   figure is 32 avoided runs in the first fourteen hours**, because the machine is a desktop that
-  sleeps and a scheduler can't fire on a sleeping computer. I inflated my own headline by about five
-  times, and then caught it with the log.
+  sleeps and a scheduler can't fire on a sleeping computer. I inflated my own headline, and then caught it
+  with the log.
+- **Closed and counted on 28/09:** the full weekend came to **285 avoided runs** (105 Saturday, 180 Sunday).
+  So the projection was **double** the real figure, not five times it — my own correction was also comparing
+  48 projected hours against 14 measured ones.
 
 And here's the part where I have to be precise, because it's exactly the mistake I charge to find.
 **In this case those invocations cost zero.** They run against a flat-rate plan with more than
