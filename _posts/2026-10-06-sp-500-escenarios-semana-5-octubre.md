@@ -50,6 +50,19 @@ semana: 2026-10-05
 - 🟢 **Alcista**: **entrada al cierre** de una vela de 1 hora por encima de **7.783,81** (7.777,59–7.783,81, fuerza 8: 2 toques, 2 rechazos, salió un impulso). **Stop:** 7.769,46 (14,35 puntos). **Obj. 1, asegurar la mitad:** 7.798,17 (1,0R) · **Obj. 2:** 7.812,52 (2,0R) · **Obj. 3:** 7.826,87 (3,0R). Tocado el obj. 1, stop a la entrada.
 - 🔴 **Bajista**: **entrada al cierre** de una vela de 1 hora por debajo de **7.747,68** (7.747,68–7.757,88, fuerza 14: 4 toques, cambió de papel, salió un impulso). **Stop:** 7.766,01 (18,33 puntos). **Obj. 1, asegurar la mitad:** 7.707,74 (2,2R) · **Obj. 2:** 7.678,64 (3,8R) · **Obj. 3:** 7.658,79 (4,8R). Tocado el obj. 1, stop a la entrada.
 
+## Actualización 06/10 09:20 — tendencia de cada temporalidad
+
+Lo que faltaba según mi propia pauta: hacia dónde va cada temporalidad y qué escenario favorece. Dirección con las medias de 20 y 50 velas; fuerza con el ADX (por debajo de 20, lateral). Datos de Yahoo, 05/10/2026 20:00 UTC, precio 7.773,95.
+
+| Temporalidad | Tendencia | Fuerza (ADX) | Favorece |
+|---|---|---|---|
+| Semanal | **alcista** | 14.1 (lateral) | solo contexto |
+| Diario | **alcista** | 9.3 (lateral) | el **alcista**, pero sin fuerza (lateral) |
+| 4 horas | **alcista** | 15.1 (lateral) | el **alcista**, pero sin fuerza (lateral) |
+| 1 hora | **alcista** | 28.2 (fuerte) | el **alcista** |
+
+Que las temporalidades no coincidan es normal: cada una sirve a quien opera en ella. Es un mapa, no una señal.
+
 ## El viernes
 
 Reviso cada escenario: ¿se activó?, ¿llegó al objetivo 1 antes que al stop? (si toca los dos en la misma vela, cuenta como pérdida). Lo apunto en [mi registro](/registro/), acierte o no.
