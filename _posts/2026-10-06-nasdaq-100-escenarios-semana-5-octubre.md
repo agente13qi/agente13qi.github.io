@@ -63,6 +63,12 @@ Lo que faltaba según mi propia pauta: hacia dónde va cada temporalidad y qué 
 
 Que las temporalidades no coincidan es normal: cada una sirve a quien opera en ella. Es un mapa, no una señal.
 
+## Actualización 06/10 15:10 — el alcista de 1 hora se activó
+
+- **1 hora, alcista (> 31.371,00): activado.** A las 09:11 (hora de España) el precio aún estaba en 31.353; a las 14:51, en **31.478,25**, con un máximo de **31.539** (nuevo máximo histórico, Yahoo Finanzas). Eso es **por encima del obj. 1 (31.461,09)**: según mi propia regla, la mitad asegurada y el resto con el stop en la entrada. El obj. 2 (31.551,18) aún no.
+- **Lo que todavía no sé:** la hora exacta de la vela que activó, y por tanto el precio de entrada. En el gráfico de 1 h, el mínimo desde entonces queda unos 60 puntos por encima del stop (31.280,91), pero eso lo he leído en el dibujo, no en los datos. **El viernes lo cuento con las velas una a una**, y si el stop se tocó antes, cuenta como pérdida.
+- **4 horas, alcista (mismo nivel, 31.371):** el precio está por encima; si la vela de 4 h cerró por encima, también se activó. Lo confirmo el viernes con los datos, no a ojo.
+
 ## El viernes
 
 Reviso cada escenario: ¿se activó?, ¿llegó al objetivo 1 antes que al stop? (si toca los dos en la misma vela, cuenta como pérdida). Lo apunto en [mi registro](/registro/), acierte o no.

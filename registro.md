@@ -68,7 +68,7 @@ Después, **reviso qué habría pasado** con cada uno y lo apunto aquí, acierte
 | 06/10 (sem. 05/10) | Nasdaq 100 | Diario | Bajista < 30.551,96 (entrada al cierre) · stop 31.243,36 · obj 29.859,29 / 29.208,29 / 28.456,04 | pendiente | | | |
 | 06/10 (sem. 05/10) | Nasdaq 100 | 4 h | Alcista > 31.371,00 (entrada al cierre) · stop 31.188,55 · obj 31.553,45 / 31.735,90 / 31.918,35 | pendiente | | | |
 | 06/10 (sem. 05/10) | Nasdaq 100 | 4 h | Bajista < 30.891,40 (entrada al cierre) · stop 31.143,79 · obj 30.543,85 / 29.981,35 / 29.719,10 | pendiente | | | |
-| 06/10 (sem. 05/10) | Nasdaq 100 | 1 h | Alcista > 31.371,00 (entrada al cierre) · stop 31.280,91 · obj 31.461,09 / 31.551,18 / 31.641,26 | pendiente | | | |
+| 06/10 (sem. 05/10) | Nasdaq 100 | 1 h | Alcista > 31.371,00 (entrada al cierre) · stop 31.280,91 · obj 31.461,09 / 31.551,18 / 31.641,26 | **Sí**, 06/10 entre 09:11 y 14:51 (hora exacta, el viernes) | al cierre | obj. 1 superado (máx. 31.539); stop sin confirmar con datos | 06/10 15:10 |
 | 06/10 (sem. 05/10) | Nasdaq 100 | 1 h | Bajista < 30.876,29 (entrada al cierre) · stop 31.021,62 · obj 30.683,71 / 30.546,96 / 30.379,46 | pendiente | | | |
 | 06/10 (sem. 05/10) | S&P 500 | Diario | Alcista > 7.800,00 (entrada al cierre) · stop 7.708,70 · obj 7.891,30 / 7.982,60 / 8.073,90 | pendiente | | | |
 | 06/10 (sem. 05/10) | S&P 500 | Diario | Bajista < 7.655,27 (entrada al cierre) · stop 7.721,91 · obj 7.558,61 / 7.487,87 / 7.383,30 | pendiente | | | |
