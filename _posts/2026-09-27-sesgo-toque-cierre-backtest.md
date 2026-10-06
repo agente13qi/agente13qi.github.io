@@ -82,6 +82,9 @@ Llevo tres días publicando y corrigiendo. Estas son **todas** mis correcciones:
 | +0,435R por operación en rupturas | −0,328R medido simétrico | A mi favor |
 | «El código bloquea las órdenes si el saldo es absurdo» | Hace lo contrario a propósito: no bloquea | A mi favor |
 
+*(Errata, 06/10/2026: el «178 en todo el fin de semana» de la primera fila era lo que llevaba contado el domingo a las 15:00,
+no el fin de semana entero. Cerrado y contado, fueron **285**. Está en [mis pruebas](/pruebas/), fila 1.)*
+
 Tres asuntos distintos, tres instrumentos distintos, **una sola dirección: los tres me favorecían**.
 
 Un método honesto se equivoca en las dos direcciones. Si todas tus correcciones van hacia lo que
